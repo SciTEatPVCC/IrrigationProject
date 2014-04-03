@@ -40,7 +40,7 @@ UsedLibrary="Library.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="185 192 1073 591"
+Loc="320 218 919 617"
 State=2
 Number=0
 
