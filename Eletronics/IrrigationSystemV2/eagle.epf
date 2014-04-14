@@ -7,6 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/Applications/EAGLE-6.5.0/lbr/holes.lbr"
 UsedLibrary="/Applications/EAGLE-6.5.0/lbr/rcl.lbr"
 UsedLibrary="/Applications/EAGLE-6.5.0/lbr/resistor-sil.lbr"
 UsedLibrary="/Applications/EAGLE-6.5.0/lbr/special.lbr"

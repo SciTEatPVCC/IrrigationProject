@@ -7639,9 +7639,9 @@ Block, Siemens and generic&lt;p&gt;
 <wire x1="2.5" y1="-1" x2="2.5" y2="1" width="0.127" layer="21"/>
 <wire x1="2.5" y1="-1" x2="2.5" y2="1" width="0.127" layer="21" curve="-316.397181"/>
 <pad name="2" x="0.635" y="-1.27" drill="0.762" shape="square" rot="R90"/>
-<pad name="1" x="1.905" y="0.635" drill="0.762" rot="R90"/>
+<pad name="1" x="1.27" y="0.635" drill="0.762" rot="R90"/>
 <pad name="3" x="-0.635" y="1.27" drill="0.762" shape="octagon" rot="R90"/>
-<pad name="4" x="-1.905" y="-0.635" drill="0.762" rot="R90"/>
+<pad name="4" x="-1.27" y="-0.635" drill="0.762" rot="R90"/>
 </package>
 </packages>
 <symbols>
@@ -8411,9 +8411,9 @@ COM-09264 (Diffuse)</description>
 <label x="91.44" y="190.5" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="U1" gate="G$1" pin="38"/>
-<wire x1="304.8" y1="162.56" x2="314.96" y2="162.56" width="0.1524" layer="91"/>
-<label x="307.34" y="162.56" size="1.778" layer="95"/>
+<pinref part="U1" gate="G$1" pin="2"/>
+<wire x1="264.16" y1="162.56" x2="251.46" y2="162.56" width="0.1524" layer="91"/>
+<label x="251.46" y="162.56" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SIG-FLOW1" class="0">
